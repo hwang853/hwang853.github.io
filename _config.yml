@@ -1,3 +1,4 @@
+# Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Haoran Wang"
@@ -5,9 +6,9 @@ title_separator          : "-"
 name                     : &name "Haoran Wang"
 description              : &description "Haoran Wang is a Ph.D. candidate in Economics at The Ohio State University. His research interests are in Labor Economics, Public Policy, and Health Economics."
 
-url                      : "https://YOUR-GITHUB-USERNAME.github.io"
+url                      : "https://hwang853.github.io"
 baseurl                  : ""
-repository               : "YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io"
+repository               : "hwang853/hwang853.github.io"
 
 author:
   avatar           : "profile.png"
