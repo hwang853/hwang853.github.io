@@ -10,7 +10,7 @@ author_profile: true
 
 This paper studies the effects of Colorado’s cross-firm pay transparency law, the Equal Pay for Equal Work Act (EPEWA), on the labor market outcomes of mid- to late-career workers aged 45–64. I examine how improved information about outside wage opportunities affects earnings, the gender wage gap, and labor supply for a group that may face relatively high search frictions and outdated wage information. Using a difference-in-differences design that exploits variation across states and over time, I find that pay transparency increases both weekly earnings and hourly wages, with larger wage gains among women and highly educated workers, and narrows the gender wage gap. The wage gains are observed among both job changers and job stayers, although they are larger for job changers, and they vary across occupations with different wage levels, wage dispersion, and age–wage profiles. Turning to labor supply, pay transparency increases employment and raises main-job working hours among employed workers in the short run. In contrast, I find limited effects among younger workers aged 25–44, with positive wage effects appearing among job changers. Survey evidence further shows that pay transparency increases workers’ expectations about outside wage opportunities, raises reservation wages, and temporarily increases the perceived probability of receiving a job offer. Overall, the findings suggest that cross-firm pay transparency is particularly valuable for mid- to late-career workers, whose beliefs about outside wage opportunities are more likely to be outdated.
 
-**Paper coming soon**
+**[Paper](/files/JMP_Haoran_Wang.pdf)**
 
 ---
 
