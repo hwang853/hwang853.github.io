@@ -6,9 +6,9 @@ author_profile: true
 
 ## Job Market Paper
 
-### The Effects of Pay Transparency on Mid- to Late-Career Workers
+### The effects of Colorado's Pay Transparency among Older Workers
 
-This paper studies the effects of Colorado's cross-firm pay transparency law, the Equal Pay for Equal Work Act (EPEWA), on the labor market outcomes of mid- to late-career workers aged 45–64. Using a difference-in-differences design, I find that pay transparency increases weekly earnings and hourly wages, with larger wage gains among women. The policy also increases employment and working hours in the short run and temporarily narrows the gender wage gap. Evidence on workers' beliefs shows that pay transparency raises expected wages from outside opportunities and reservation wages, while increasing perceived job-offer probabilities in the short run. Together, the findings suggest that reducing wage information frictions can improve mid- to late-career workers' evaluation of outside opportunities and strengthen their labor market outcomes.
+This paper studies the effects of Colorado’s cross-firm pay transparency law, the Equal Pay for Equal Work Act (EPEWA), on the labor market outcomes of mid- to late-career workers aged 45–64. I examine how improved information about outside wage opportunities affects earnings, the gender wage gap, and labor supply for a group that may face relatively high search frictions and outdated wage information. Using a difference-in-differences design that exploits variation across states and over time, I find that pay transparency increases both weekly earnings and hourly wages, with larger wage gains among women and highly educated workers, and narrows the gender wage gap. The wage gains are observed among both job changers and job stayers, although they are larger for job changers, and they vary across occupations with different wage levels, wage dispersion, and age–wage profiles. Turning to labor supply, pay transparency increases employment and raises main-job working hours among employed workers in the short run. In contrast, I find limited effects among younger workers aged 25–44, with positive wage effects appearing among job changers. Survey evidence further shows that pay transparency increases workers’ expectations about outside wage opportunities, raises reservation wages, and temporarily increases the perceived probability of receiving a job offer. Overall, the findings suggest that cross-firm pay transparency is particularly valuable for mid- to late-career workers, whose beliefs about outside wage opportunities are more likely to be outdated.
 
 **Paper coming soon**
 
@@ -45,13 +45,5 @@ We develop a framework that combines neural networks, instrumental variables, an
 ### How Does Family Structure Influence Women's Bargaining Power in the Labor Market?
 
 This project studies whether the effects of pay transparency on women's labor market outcomes vary with family structure, with particular attention to marriage and children.
-
-### The Effect of Paid Family Leave on Aging People's Retirement and Saving
-
-*with Linyan Hu*
-
-This project studies how paid family and medical leave programs affect labor supply, retirement, and saving decisions among older individuals.
-
-### The Effects of SNAP Work Requirements on Immigrants
 
 This project studies how SNAP work-requirement waivers affect SNAP participation, employment, working hours, and food security among individuals in immigrant families.
