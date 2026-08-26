@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Principles of Microeconomics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/principles-of-microeconomics
+venue: "The Ohio State University"
+date: 2026-01-01
+location: "Columbus, Ohio"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Teaching Assistant**
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Spring 2026
+- Fall 2025
+- Spring 2025
+- Fall 2024
+- Spring 2024
+- Fall 2023
