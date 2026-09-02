@@ -24,6 +24,8 @@ This paper studies the effects of Colorado’s cross-firm pay transparency law, 
 
 This paper develops a three-step empirical framework to optimize classroom assignments under endogenous peer effects. First, we design PeerNN, a neural network modeling friendship formation, generating a linkage-intensity matrix (Ω) that captures student popularity. Second, using quasi-random classroom assignments as an instrument, we estimate peer effects: a 10% increase in friends’ 6th-grade class rank (weighted by Ω) increases 8th-grade test scores by 0.13 SD. Third, we simulate assignment policies. A genetic algorithm (GA) maximizing average peer effect yields a 1.9% gain but exacerbates inequality, disproportionately harming students with lower 6th-grade class ranks. We propose a variance-penalizing approach named Algorithmically Fair GA (AFGA), which achieves a 1.2% improvement while ensuring equitable outcomes. Our findings highlight the trade-off between efficiency and equity in classroom assignment policies and underscore the need for fairness-aware algorithms when designing group assignment policies.
 
+**First place, 2024 Hayes Forum Poster Competition.**
+
 **[Published Paper](https://www.tandfonline.com/doi/full/10.1080/15140326.2026.2697119#abstract)**
 
 ---
