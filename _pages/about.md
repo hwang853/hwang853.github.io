@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Economics at The Ohio State University. My research interests are in labor economics, public policy, and health economics.
 
-My research studies how labor market policies and social insurance programs affect workers' labor supply, wages, and economic well-being, with a particular focus on mid- to late-career workers.
+My research examines how labor market policies, information frictions, and employer concentration shape wages, employment, and job search, with a particular focus on mid- to late-career workers. 
 
 ## Research Fields
 
@@ -17,9 +17,9 @@ My research studies how labor market policies and social insurance programs affe
 
 ## Job Market Paper
 
-### The Effects of Pay Transparency on Mid- to Late-Career Workers
+### The Effects of Colorado's Pay Transparency Law on Older Workers
 
-This paper studies how cross-firm pay transparency affects the labor market outcomes of mid- to late-career workers. Using Colorado's Equal Pay for Equal Work Act and a difference-in-differences design, I find that pay transparency increases weekly earnings and hourly wages among workers aged 45–64, with larger wage gains among women. The policy also increases employment and working hours in the short run and temporarily narrows the gender wage gap. These effects vary across occupations with different wage dispersion and age-wage profiles, while effects among younger workers are limited. Evidence on workers' beliefs shows that pay transparency raises expected wages from outside opportunities and reservation wages, while increasing perceived job-offer probabilities in the short run. Together, the findings suggest that reducing wage information frictions is particularly valuable for mid- to late-career workers, who may face greater search frictions and rely on outdated information about labor market opportunities.
+This paper studies how cross-firm pay transparency affects labor market outcomes of mid- to late-career workers. Using Colorado's Equal Pay for Equal Work Act (EPEWA) and a difference-in-differences design, I find that pay transparency increases weekly earnings and hourly wages. The gains are larger for women, more-educated workers, and workers closer to retirement, and the law narrows the gender wage gap. Both job changers and stayers experience wage gains, although the gains are larger among changers. Wage effects also vary across occupations and are larger in local occupational labor markets with greater concentration. The policy also increases employment and working hours in the short run. By contrast, effects are limited among younger workers. Survey evidence on workers' beliefs further shows that, among older workers, pay transparency changes their expectation about outside options and reservation wages. Overall, the findings suggest that cross-firm wage information is particularly valuable for mid- to late-career workers, who may face relatively high search frictions and have outdated wage information.
 
 **[Paper](/files/JMP_Haoran_Wang.pdf)** | **[Slides](/files/JMP_Slides_Haoran_Wang.pdf)**
 
