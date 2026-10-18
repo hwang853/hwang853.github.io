@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at The Ohio State University. My research interests are in labor economics, public policy, and health economics.
+I am a Ph.D. candidate in Economics at The Ohio State University. My research interests are in **labor economics**, **health economics**, and **public policy**.
 
-My research examines how labor market policies, information frictions, and employer concentration shape wages, employment, and job search, with a particular focus on mid- to late-career workers. 
+I study how labor market regulations and social insurance programs affect employment, earnings, and well-being. My research focuses on **labor market information and wage determination, labor supply, and health and social insurance programs**, with particular interests in **information frictions, labor market concentration and competition, workers' bargaining power, and public health insurance**.
 
 ## Research Fields
 
-**Labor Economics, Public Policy, Health Economics**
+**Labor Economics, Health Economics, Public Policy**
 
 ## Job Market Paper
 
