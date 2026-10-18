@@ -48,8 +48,8 @@ This study examines the impact of Supplemental Nutrition Assistance Program (SNA
 
 ## Works in Progress
 
-### The Effects of SNAP Work Requirements on Immigrants
+**The Effects of SNAP Work Requirements on Immigrants**
 
-### How Does Family Structure Influence Women's Bargaining Power in the Labor Market?
+**How Does Family Structure Influence Women's Bargaining Power in the Labor Market?**
 
-### The Intergenerational Effects of China’s Public Long-Term Care Insurance: Grandparental Childcare and Grandchildren’s Health”, with Weihao Lu
+**The Intergenerational Effects of China’s Public Long-Term Care Insurance: Grandparental Childcare and Grandchildren’s Health** with Weihao Lu
