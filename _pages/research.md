@@ -8,7 +8,7 @@ author_profile: true
 
 ### The effects of Colorado's Pay Transparency among Older Workers
 
-This paper studies the effects of Colorado’s cross-firm pay transparency law, the Equal Pay for Equal Work Act (EPEWA), on the labor market outcomes of mid- to late-career workers aged 45–64. I examine how improved information about outside wage opportunities affects earnings, the gender wage gap, and labor supply for a group that may face relatively high search frictions and outdated wage information. Using a difference-in-differences design that exploits variation across states and over time, I find that pay transparency increases both weekly earnings and hourly wages, with larger wage gains among women and highly educated workers, and narrows the gender wage gap. The wage gains are observed among both job changers and job stayers, although they are larger for job changers, and they vary across occupations with different wage levels, wage dispersion, and age–wage profiles. Turning to labor supply, pay transparency increases employment and raises main-job working hours among employed workers in the short run. In contrast, I find limited effects among younger workers aged 25–44, with positive wage effects appearing among job changers. Survey evidence further shows that pay transparency increases workers’ expectations about outside wage opportunities, raises reservation wages, and temporarily increases the perceived probability of receiving a job offer. Overall, the findings suggest that cross-firm pay transparency is particularly valuable for mid- to late-career workers, whose beliefs about outside wage opportunities are more likely to be outdated.
+This paper studies how cross-firm pay transparency affects labor market outcomes of mid- to late-career workers. Using Colorado's Equal Pay for Equal Work Act (EPEWA) and a difference-in-differences design, I find that pay transparency increases weekly earnings and hourly wages. The gains are larger for women, more-educated workers, and workers closer to retirement, and the law narrows the gender wage gap. Both job changers and stayers experience wage gains, although the gains are larger among changers. Wage effects also vary across occupations and are larger in local occupational labor markets with greater concentration. The policy also increases employment and working hours in the short run. By contrast, effects are limited among younger workers. Survey evidence on workers' beliefs further shows that, among older workers, pay transparency changes their expectation about outside options and reservation wages. Overall, the findings suggest that cross-firm wage information is particularly valuable for mid- to late-career workers, who may face relatively high search frictions and have outdated wage information.
 
 **[Paper](/files/JMP_Haoran_Wang.pdf)**
 
@@ -32,21 +32,15 @@ This paper develops a three-step empirical framework to optimize classroom assig
 
 ## Working Papers
 
-### The Effect of Public Long-Term Care Insurance in China on Adult Children's Labor Supply
+### The Effect of Public Long-term Care Insurance on Adult Children’s Labor Supply in China
 
-This paper studies how China's public long-term care insurance (LTCI) affects adult children's labor supply using staggered city-level policy implementation and parental eligibility. I find that parental LTCI eligibility increases adult children's labor supply on the extensive margin, with larger effects among daughters. The results suggest that formal long-term care can affect not only care recipients but also the labor market behavior of family members by reducing informal caregiving responsibilities.
+China’s public long-term care insurance (LTCI) program expanded rapidly and at scale, reaching 29 pilot cities by 2020. I study its effects on adult children’s labor supply by using staggered city-level policy implementation and variation in older parents’ eligibility in a triple-differences framework. I find that parental LTCI eligibility raises adult children’s labor force participation, raising participation by 6.3 percentage points among daughters and 1.2 percentage points among sons. Evidence on mechanism shows that adult children spend less time on caregiving while offering somewhat more financial support to parents. Transfers from parents to children also increase, but this effect is diminished during the COVID-19 period. The labor-supply effects of LTCI on adult children vary with respect to parental health and pandemic conditions: when parents have severe health problems during COVID-19, LTCI does not increase adult children's labor supply. Finally, compared with strictly in-kind LTCI, programs combining in-kind and cash benefits lead to larger increases in adult children’s labor supply and larger reductions in their caregiving time, but lower life satisfaction among parents.
 
 **Paper coming soon**
 
 ### The Effects of SNAP Work Requirements on Self-Employment
 
-This paper examines how SNAP work requirements affect self-employment and SNAP participation among Able-Bodied Adults Without Dependents (ABAWDs). Using variation in SNAP work-requirement waivers, I find that work requirements have little effect on overall self-employment but reduce SNAP participation among self-employed ABAWDs and increase their working hours. The effects also differ by gender and across different phases of the business cycle.
-
-**Paper coming soon**
-
-### The Effects of SNAP Work Requirements on Immigrants
-
-This study examines the impact of waivers of the Supplemental Nutrition Assistance Program (SNAP) work requirements on Able-Bodied Adults Without Dependents (ABAWDs) in immigrant families during the economic recession (2007–2010). Drawing on data from IPUMS-USA and Han (2022), the findings show that the waivers encourage ABAWDs in immigrant families to participate in SNAP, have no effect on their employment, but reduce their conditional working hours. Moreover, a heterogeneous analysis reveals that these effects are primarily observed among immigrants with citizenship. Furthermore, using the Food Security Supplement from the CPS Basic Monthly Survey, the study finds that the waivers increase the probability of being food secure among immigrant families and consistently reduce the likelihood of experiencing severe food insecurity. Therefore, by lowering barriers to SNAP participation, the government can encourage immigrants to participate in SNAP and alleviate food insecurity, especially during economic downturns.
+This study examines the impact of Supplemental Nutrition Assistance Program (SNAP) work requirements on self-employment and SNAP participation among able-bodied adults without dependents (ABAWDs). Using individual-level data from IPUMS USA with a panel of policy histories compiled by Han (2022), the findings show that while work requirements do not affect self-employment rates in the broader population, but they discourage self-employed ABAWDs from participating in SNAP and push ABAWDs to work longer hours to maintain SNAP eligibility. In contrast, work requirements have no effect on waged employed ABAWDs. Gender analysis reveals limited positive effects on men’s self-employment but negative effects on women’s self-employment rate. During economic downturns, remaining work requirements reduce SNAP participation when food security is at its weakest. During recoveries, emerging work requirements hinder women's self-employment just as new opportunities surface. In summary, SNAP work requirements deter participation when assistance is most needed and disproportionately discourage women’s self-employment.
 
 **Paper coming soon**
 
@@ -54,6 +48,8 @@ This study examines the impact of waivers of the Supplemental Nutrition Assistan
 
 ## Works in Progress
 
+### The Effects of SNAP Work Requirements on Immigrants
+
 ### How Does Family Structure Influence Women's Bargaining Power in the Labor Market?
 
-This project studies whether the effects of pay transparency on women's labor market outcomes vary with family structure, with particular attention to marriage and children.
+### The Intergenerational Effects of China’s Public Long-Term Care Insurance: Grandparental Childcare and Grandchildren’s Health”, with Weihao Lu
