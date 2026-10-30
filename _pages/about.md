@@ -13,7 +13,7 @@ I study how labor market regulations and social insurance programs affect employ
 
 ## Research Fields
 
-**Labor Economics, Health Economics, Public Policy**
+**Labor Economics, Health Economics, Public Policy, Applied Econometrics**
 
 ## Job Market Paper
 
